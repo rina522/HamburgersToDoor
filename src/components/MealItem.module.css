@@ -1,0 +1,30 @@
+.mealItem{
+    width: 390rem;
+    /* background-color: aqua; */
+    display: flex;
+    flex-flow: row;
+    border-bottom: 1rem solid #f4f4f4;
+    /* padding-top: 20rem */
+
+}
+
+.img{
+    width: 120rem;
+}
+
+.brief{
+    width: 260rem;
+    padding-top: 20rem;
+}
+
+.title{
+    font-size: 16rem;
+    font-weight: 500;
+
+}
+
+.description{
+    font-size: 12rem;
+    color: #666;
+}
+

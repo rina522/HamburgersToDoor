@@ -1,0 +1,30 @@
+.item{
+    margin-left: 16rem;
+    display: flex;
+}
+
+.img{
+    width: 78rem;
+}
+
+.brief{
+    flex: auto;
+    padding: 5rem
+}
+
+.title{
+    padding: 8rem 10rem;
+    font-size: 15rem;
+    
+}
+
+.sumbox{
+    padding: 8rem 10rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sumPrice{
+    font-size: 14rem;
+    font-weight: 700;
+}

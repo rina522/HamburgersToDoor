@@ -1,0 +1,10 @@
+.meals{
+    width: 390rem;
+    position: absolute;
+    top: 60rem;
+    overflow: auto;
+}
+
+.blank{
+    height: 80rem;
+}

@@ -1,0 +1,38 @@
+.buttons{
+    width: 60rem;
+    display: flex;
+    justify-content: right
+}
+
+.add{
+    width: 20rem;
+    height: 20rem;
+    border: none;
+    border-radius: 50%;
+    background-color: #fad256;
+    line-height: 20rem;
+}
+
+.add :hover{
+    cursor: pointer;
+}
+
+.minus{
+    width: 20rem;
+    height: 20rem;
+    border: none;
+    border-radius: 50%;
+    background-color: #fad256;
+    line-height: 20rem;
+    /* margin-right: 20rem; */
+}
+
+.minus :hover{
+    cursor: pointer;
+}
+
+.number{
+    font-size: 14rem;
+    margin: 2rem auto 0;
+
+}

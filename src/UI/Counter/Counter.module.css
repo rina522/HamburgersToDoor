@@ -1,0 +1,19 @@
+.counter{
+    display: flex;
+    justify-content: space-between;
+    padding: 20rem 10rem 16rem;
+}
+
+.price :first-child{
+    font-size: 12rem;
+    font-weight: 500;
+    /* padding-left: 8rem; */
+
+}
+
+.price :nth-child(2){
+    font-size: 18rem;
+    padding-left: 3rem;
+
+}
+

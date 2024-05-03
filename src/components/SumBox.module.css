@@ -1,0 +1,97 @@
+.sumBox{
+    width: 350rem;
+    position: fixed;
+    bottom: 25rem;
+    left: 0;
+    right: 0;
+    margin: auto;
+    z-index: 9999;
+    
+}
+
+.greyBar{
+    width: 350rem;
+    height: 45rem;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    background-color: #444;
+    border-radius: 20rem;
+
+}
+
+.text{
+    /* background-color: aqua; */
+    margin-left: 50rem;
+    line-height: 45rem;
+    font-size: 20rem;
+    color: #aaa;
+    
+
+}
+
+
+.bag{
+    width: 45rem;
+    position: absolute;
+    top:-10rem;
+    left:-5rem;
+} 
+
+.sumNumber{
+    position: absolute;
+    top:-10rem;
+    left: 30rem;
+    width: 20rem;
+    height: 20rem;
+    border-radius: 50%;
+    background-color: red;
+    font-size: 12rem;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    line-height: 18rem;
+
+}
+
+.sumPrice{
+    margin-left: 50rem;
+    padding-top: 15rem;
+    font-weight: 700;
+
+}
+
+.icon{
+    font-size: 12rem;
+    color: #fff;
+}
+
+.amount{
+    font-size: 20rem;
+    color: #fff;
+
+}
+
+.greyBar button{
+    position: absolute;
+    top:0;
+    right: 0;
+    width: 100rem;
+    height: 45rem;
+    border: none;
+    border-radius: 20rem;
+    font-size: 20rem;
+    font-weight: 700;
+
+}
+
+.disabled{
+    background-color: #777;
+    color: #aaa;
+    
+}
+
+.checkout{
+    background-color: #fad256;
+    color: #fff;
+}

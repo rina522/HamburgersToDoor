@@ -1,0 +1,42 @@
+.topBar{
+    position:fixed;
+    top:0;
+    width: 390rem;
+    height: 60rem;
+    padding: 10rem 10rem 16rem 10rem;
+    border-bottom: 1rem solid #f4f4f4;
+    background-color: #fff;
+    z-index: 999;
+
+}
+
+.searchBar{
+    position: relative;
+    
+}
+
+.searchIcon{
+    position: absolute;
+    left:20rem;
+    top:10rem;
+    font-size: 18rem;
+
+}
+
+.input{
+    width: 350rem;
+    height: 36rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    align-items: center;
+    /* background-color: aquamarine; */
+    margin: 0 auto;
+    padding-left: 35rem;
+    background-color: #f4f4f4;
+    border: none;
+    border-radius: 15rem;
+    font-size: 14rem;
+    /* margin-left: 14rem; */
+
+}

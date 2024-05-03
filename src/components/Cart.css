@@ -1,0 +1,39 @@
+.cart{
+    width: 390rem;
+    position: absolute;
+    /* top: 30rem; */
+    bottom: 70rem;
+    background-color: #fff;
+    overflow: auto;
+    border-top-left-radius: 20rem;
+    border-top-right-radius: 20rem;
+
+}
+
+.cartTop{
+    display: flex;
+    justify-content: space-between;
+    height: 70rem;
+    margin-top: 5rem;
+    padding: 15rem;
+    border-bottom: 1rem solid #f4f4f4;
+
+}
+
+.shoppingCart{
+    font-size: 20rem;
+    font-weight: 700;
+}
+
+.cartText{
+    padding-left: 3rem;
+
+}
+
+.clear{
+    display: flex;
+    justify-content: space-between;
+    width: 50rem;
+    font-size: 14rem;
+}
+
